@@ -138,3 +138,14 @@ header .intro-text .skills{
 	box-shadow: 5px 5px 30px #868686;
 	padding:10px;
 }
+
+li{
+	font-size: 20px;
+	text-align: justify;
+}
+.m-bottom{
+	margin-bottom: 50px;
+}
+.flex{
+	display: flex;
+}
